@@ -8,7 +8,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     author="Can Ozaydin",
     author_email="ozaydincan.app@gmail.com",
-    url=" https://github.com/ozaydincan/shared_objects",  # Update with your GitHub repo
+    url="https://github.com/ozaydincan/shared_objects.git",  # Update with your GitHub repo
     packages=["shared_objects"],
     package_dir={"shared_objects": "src/shared_objects"},
     python_requires=">=3.9",
