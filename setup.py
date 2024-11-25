@@ -3,9 +3,7 @@ import setuptools
 setuptools.setup(
     name="shared_objects",  # Replace with a unique name for PyPI
     version="0.1.0",
-    description="A description of your package",
-    long_description=open("README.md").read(),
-    long_description_content_type="text/markdown",
+    description="ROS2 Utils",
     author="Can Ozaydin",
     author_email="ozaydincan.app@gmail.com",
     url="https://github.com/ozaydincan/shared_objects.git",  # Update with your GitHub repo
