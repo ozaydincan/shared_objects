@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="shared_objects",  # Replace with a unique name for PyPI
-    version="0.1.0",
+    version="0.1.1",
     description="ROS2 Utils",
     author="Can Ozaydin",
     author_email="ozaydincan.app@gmail.com",
